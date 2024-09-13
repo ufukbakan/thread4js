@@ -1,0 +1,16 @@
+{
+  "name": "thread4js",
+  "version": "1.0.0",
+  "description": "Threads ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "email": "println.ufukbakan@gmail.com",
+    "name": "Ufuk Bakan",
+    "url": "https://linkedin.com/in/ufuk-bakan"
+  },
+  "license": "ISC"
+}
